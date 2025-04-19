@@ -1,0 +1,18 @@
+"shell-script-node.sh" 18L, 188B                              18,0-1        All
+#!/bin/bash
+
+
+##########################
+# Author: Zach
+# Date: 18th-Apr
+#
+# Version: v1
+#
+# This script will output the node health
+##########################
+
+df -h
+
+free -g
+
+nproc
