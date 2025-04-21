@@ -19,7 +19,7 @@
 aws s3 ls
 
 # list EC2 Instances
-aws ec2  describe-instances
+aws ec2 describe-instances
 
 # list lambda
 aws lambda list-functions
